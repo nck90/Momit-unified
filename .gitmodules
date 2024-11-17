@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nck90/Momit-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/nck90/Momit-backend.git
